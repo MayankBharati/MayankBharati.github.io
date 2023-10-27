@@ -1,7 +1,7 @@
 ---
 date: "2023-06-10"
 title: "Chest X-ray Federated Learning"
-cover: "public\images\ChestFL.png"
+cover: "ChestFL.png"
 github: "https://github.com/MayankBharati/Chest-Xray-Federated-Learning-"
 tech: [Python, jupyter notebook]
 show: "true"
